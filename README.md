@@ -3,13 +3,13 @@ This is a simple To Do app made in React.
 
 ## Screenshot
 
-![](./images/screenshot.png)
+![](./src/images/screenshot.png)
 
 ## Links
 
 - Live Site URL: [Tasks App]()
 
-### Built With
+### Built Withs
 
 - ReactJS
 - HTML 5
